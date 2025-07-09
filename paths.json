@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/lamont-bootcamp/:/",
+    "/content/lamont-bootcamp/configuration:/.helix/config.json",
+    "/content/lamont-bootcamp/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/lamont-bootcamp/"
   ]
 }
